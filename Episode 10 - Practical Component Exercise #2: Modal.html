@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="node_modules/bulma/css/bulma.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="root">
+<modal v-show="showModal" @close="closeModal">
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa fringilla egestas. Nullam condimentum luctus turpis.</p>
+</modal>
+<button @click="openModal">Show Modal</button>
+</div>
+<script src="node_modules/vue/dist/vue.js"></script>
+<script src="js/main_10.js"></script>
+</body>
+</html>

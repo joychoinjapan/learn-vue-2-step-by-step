@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="node_modules/bulma/css/bulma.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div id="root" class="container">
+        <coupon v-on:coupon-was-applied="onCouponApplied"></coupon>
+        <h1 v-if="couponApplied">You use a coupon</h1>
+    </div>
+<script src="node_modules/vue/dist/vue.js"></script>
+<script src="js/main_12.js"></script>
+</body>
+</html>
