@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65cf3d62-ff33-482d-8ef7-78c427401134" name="Default" comment="" />
+    <list default="true" id="65cf3d62-ff33-482d-8ef7-78c427401134" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Episode 14 - Named Slots in a Nutshell.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main_14.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/March" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -26,6 +31,7 @@
     <other-services-enabled>true</other-services-enabled>
   </component>
   <component name="ProjectId" id="1ZF8cir2ZL0Lgu8M6DGdK1vFZ13" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -47,14 +53,14 @@
     <property name="node.js.selected.package.eslint" value="" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/March" />
       <recent name="$PROJECT_DIR$/previous" />
-      <recent name="$PROJECT_DIR$/js" />
     </key>
   </component>
   <component name="RunManager">
@@ -94,7 +100,8 @@
       <workItem from="1584463794316" duration="2461000" />
       <workItem from="1584466422756" duration="1283000" />
       <workItem from="1584491321564" duration="7921000" />
-      <workItem from="1584553809286" duration="151000" />
+      <workItem from="1584553809286" duration="491000" />
+      <workItem from="1585343126732" duration="1579000" />
     </task>
     <servers />
   </component>
@@ -109,5 +116,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/March" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="630" y="185" key="SettingsEditor" timestamp="1584554332507">
+      <screen x="0" y="23" width="2048" height="1059" />
+    </state>
+    <state x="630" y="185" key="SettingsEditor/0.23.2048.1059@0.23.2048.1059" timestamp="1584554332507" />
   </component>
 </project>
